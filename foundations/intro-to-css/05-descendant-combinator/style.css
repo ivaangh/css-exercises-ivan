@@ -1,0 +1,36 @@
+
+.container .text {
+    background-color: yellow;
+    color: #FF0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Se podría hacer de todas las maneras siguientes también. */
+
+/*
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/*
+div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/*
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+*/
