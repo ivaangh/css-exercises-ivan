@@ -1,0 +1,19 @@
+.button1,
+.button2 {
+    font-family: "Verdana", "Times New Roman", serif;
+    font-size: 23px;
+}
+
+.button1 {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.button2 {
+    /* Parece que poner el color de texto no es necesario, pues
+    por defecto es de dicho color*/
+    /*color: black;*/
+    background-color: yellow;
+}
+
